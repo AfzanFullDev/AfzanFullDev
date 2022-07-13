@@ -1,4 +1,4 @@
-# 👋 Hi, I am Nur Afzan Zulaikha
+# 👋 Hi, I am Afzan
 
 👀 I am a passionate developer who enjoys developing frontend web apps, backend API, blockchain products, and helping clients succeed.
 
