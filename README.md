@@ -6,10 +6,12 @@
 
 ## Website development
 ### Frontend Development using
-##### ✔ React.js, Next.js, JavaScript,TypeScript, CSS, SCSS
+#### ✔ React.js, Next.js, JavaScript, TypeScript, CSS, SCSS
+
 ### Backend development using
 #### ✔ Node.js, ASP.Net Core, Firebase, Strapi
 #### ✔ MySQL, Sqlite, MongoDB, PostgreSQL
+
 ### Frontend and backend integration using
 #### ✔ Rest API (fetch, axios), GraphQL (Apollo Graphql)
 
