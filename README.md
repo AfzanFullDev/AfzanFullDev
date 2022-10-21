@@ -1,6 +1,6 @@
-# 👋 Hi, I am Afzan
+# 👋 Senior Web | Mobile | Blockchain Developer
 
-👀 I am a passionate developer who enjoys developing frontend web apps, backend API, blockchain products, and helping clients succeed.
+👀 I am a passionate developer who enjoys developing frontend web apps, backend API, mobile apps, blockchain products, and helping clients succeed.
 
 ### I am interested in:
 
@@ -15,6 +15,9 @@
 ### Frontend and backend integration using
 #### ✔ Rest API (fetch, axios), GraphQL (Apollo Graphql)
 
+## Androind | iOS App development
+### ✔ React Native
+### ✔ Java, Objective C
 
 ## Blockchain development 
 ### Frontend and Smart contract integration using
